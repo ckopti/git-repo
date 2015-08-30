@@ -1,1 +1,1 @@
-print hi cxc x
+print4 hi4 cxc x4
